@@ -1,0 +1,22 @@
+{
+  "name": "estetica",
+  "version": "1.0.0",
+  "description": "Estetica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathzwo/crispy-winner.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Nath nahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathzwo/crispy-winner/issues"
+  },
+  "homepage": "https://github.com/nathzwo/crispy-winner#readme"
+}
